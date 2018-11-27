@@ -1,0 +1,59 @@
+<data>
+	<project>
+
+		<business_autoFans_J>
+			<m_8>
+				<h>14</h>
+				<m>7</m>
+				<l>16</l>
+			</m_8>
+			<m_9>
+				<h>0</h>
+				<m>13</m>
+				<l>12</l>
+			</m_9>
+			<m_10>
+				<h>24</h>
+				<m>15</m>
+				<l>7</l>
+			</m_10>
+		</business_autoFans_J>
+
+		<autoAX>
+			<m_8>
+				<h>0</h>
+				<m>0</m>
+				<l>5</l>
+			</m_8>
+			<m_9>
+				<h>32</h>
+				<m>31</m>
+				<l>17</l>
+			</m_9>
+			<m_10>
+				<h>22</h>
+				<m>22</m>
+				<l>9</l>
+			</m_10>
+		</autoAX>
+
+		<autoAX_admin>
+			<m_8>
+				<h>0</h>
+				<m>7</m>
+				<l>10</l>
+			</m_8>
+			<m_9>
+				<h>0</h>
+				<m>0</m>
+				<l>0</l>
+			</m_9>
+			<m_10>
+				<h>5</h>
+				<m>13</m>
+				<l>2</l>
+			</m_10>
+		</autoAX_admin>
+
+	</project>
+</data>
