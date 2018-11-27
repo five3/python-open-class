@@ -6,7 +6,6 @@ def a(s):
 #         raise ArithmeticError ('除数为0')
 #     return 10 / int(s)
 
-
 def b(s):
     return a(s) * 2
 
