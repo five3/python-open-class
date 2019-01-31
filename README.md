@@ -17,6 +17,8 @@
 - 微信：test4xiao
 - 邮箱：five3@163.com
 - 社区：[http://www.testqa.cn](http://www.testqa.cn)
+- 博客：[https://blog.csdn.net/five3](https://blog.csdn.net/five3)
+- github：[https://github.com/five3](https://github.com/five3)
 
 ## 学习交流
 如果希望结群学习，请扫描下方二维码，入群互相交流问题。
