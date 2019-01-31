@@ -13,4 +13,11 @@
 
 ## 联系方式
 由于本人学识有限，避免不了有错误的地方。若有错误还望看官们帮忙指正。
+- QQ：114638571
+- 微信：test4xiao
+- 邮箱：five3@163.com
+- 社区：[http://www.testqa.cn](http://www.testqa.cn)
+
+## 学习交流
+如果希望结群学习，请扫描下方二维码，入群互相交流问题。
 ![纠正](https://github.com/five3/python-open-class/blob/master/images/contact.jpg?raw=true)
